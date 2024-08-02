@@ -68,4 +68,4 @@ You can view the live application at [Deployment Link](https://totality-challeng
 - **Styling**: The application uses Tailwind CSS for styling, which allows for rapid and responsive design.
 - **Context API**: The CartContext is used to manage cart state across the application.
 
-For any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/yourusername/your-repo-name/issues).
+For any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/ankit2four/totalityChallenge/).
