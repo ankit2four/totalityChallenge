@@ -2,13 +2,12 @@
 
 ## Project Overview
 
-This project is a React-based application for listing and filtering real estate properties. It allows users to view properties based on various filters such as location, type, transaction type, amenities, and price range. The application supports pagination and integrates with a shopping cart context for adding and managing properties.
+This project is a React-based application for listing and filtering real estate properties. It allows users to view properties based on various filters such as location, type, transaction type, amenities, and price range. The application supports pagination and integrates with a shopping cart context for adding and managing properties. [Click here to check Live Site](https://totality-challenge.vercel.app/)
 
 ## Tech Stack
 
 - **React**: JavaScript library for building user interfaces.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
-- **Lodash**: JavaScript utility library for debouncing.
 - **Context API**: For managing global state (cart).
 
 ## Setup Instructions
@@ -61,7 +60,7 @@ This project is a React-based application for listing and filtering real estate 
 
 ## Deployment Link
 
-You can view the live application at [Deployment Link](https://your-deployment-url.com).
+You can view the live application at [Deployment Link](https://totality-challenge.vercel.app/).
 
 ## Additional Notes
 
