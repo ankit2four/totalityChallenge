@@ -89,6 +89,7 @@ const PropertyList = () => {
   const handleNext = () => {
     if (currentPage < Math.ceil(filteredProperties.length / ITEMS_PER_PAGE)) {
       setCurrentPage(prevPage => prevPage + 1);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   };
 
